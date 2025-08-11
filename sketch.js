@@ -1,5 +1,4 @@
 var d;
-
 function setup() {
   createCanvas(windowWidth, windowWidth);
   background(0,255,180);
