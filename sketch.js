@@ -1,5 +1,4 @@
 var d;
-var j;
 
 function setup() {
   createCanvas(windowWidth, windowWidth);
@@ -8,7 +7,6 @@ function setup() {
 
 function draw() {
   d = random(10,60)
-  j = random(30,)
   fill(255,random(55,200));
   ellipse(mouseX,mouseY,d,d)
 }
