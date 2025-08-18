@@ -4,7 +4,9 @@ html, body {
 }
 canvas {
   display: block;
+   font-family:Helvetica, Arial, sans-serif;
 }
-h1{
-  font-family:Helvetica, Arial, sans-serif;
+
+div{
+  background:rgba(255,255,255,.5);
 }
